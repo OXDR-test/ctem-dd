@@ -16,6 +16,7 @@ from dojo.authorization.authorization import (
     user_has_permission,
     user_has_permission_or_403,
 )
+
 from dojo.authorization.roles_permissions import Permissions
 from dojo.filters import LogEntryFilter
 from dojo.forms import ManageFileFormSet
