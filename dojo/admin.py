@@ -20,7 +20,6 @@ admin.site.unregister(LogEntry)
 # Defect Dojo Engaegment Surveys
 # ==============================
 
-
 class QuestionChildAdmin(PolymorphicChildModelAdmin):
 
     """Base admin class for all child models of Question"""
