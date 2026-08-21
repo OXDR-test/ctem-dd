@@ -211,12 +211,10 @@ datatables.net-dt@>=1.12.1, datatables.net-dt@^1.13.4:
     datatables.net ">=1.12.1"
     jquery ">=1.7"
 
-datatables.net@>=1.12.1, datatables.net@^1.13.4:
-  version "1.13.4"
-  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.13.4.tgz#9a809cee82eca0a884e10b4d47a3a3d6e65e9fe7"
-  integrity sha512-yzhArTOB6tPO2QFKm1z3hA4vabtt2hRvgw8XLsT1xqEirinfGYqWDiWXlkTPTaJv2e7gG+Kf985sXkzBFlGrGQ==
-  dependencies:
-    jquery ">=1.7"
+datatables.net@>=1.12.1, datatables.net@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-3.0.2.tgz#3ff9a20e0934d65a684fcab806c964f3b8a782e4"
+  integrity sha512-+fsSiPEtqfTGQuEla0hpURiYYrjSL5yLlEnUMGy6QFoVtic8vAvJ9Ibwb00772v/jTd8G1kOfJLq34233vhEqw==
 
 deep-equal@^1.0.0:
   version "1.1.1"
